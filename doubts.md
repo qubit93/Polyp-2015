@@ -1,4 +1,4 @@
-##1. What will be the resulting prediction? as in a video will be given and we have to detect the polyp in the video.
+###1. What will be the resulting prediction? as in a video will be given and we have to detect the polyp in the video.
 NOw lets break the video into frames and processing each frame for polyp detection.
 Within each frame, we have to segment a possible polyp( but segmentation means that we are detecting the polyp???)
 Then, feature extraction from what seems to be a possible polyp(say of 50x50),
